@@ -13,6 +13,7 @@ a {
 }
 
 .logo {
+  font-family: 'Raleway', sans-serif; /* Додавання шрифту для логотипу */
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
