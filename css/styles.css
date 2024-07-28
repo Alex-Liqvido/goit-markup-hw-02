@@ -65,7 +65,6 @@ a {
 .business-section {
   background: #2e2f42;
   text-align: center;
-  padding: 60px 20px;
 }
 
 .section-heading {
@@ -82,8 +81,7 @@ a {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   border: none;
-  border-radius: 4px;
-  padding: 16px 32px;
+
   cursor: pointer;
 }
 
