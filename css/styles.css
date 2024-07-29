@@ -119,21 +119,22 @@ a {
 /*section Team */
 
 .team-section {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .team-section-heading {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
 .team-list {
-  background: #fff;
+  background-color: #fff;
 }
 
 .team-heading {
@@ -157,5 +158,5 @@ a {
 }
 
 .team-foto {
-  background: url('path_to_image');
+  background-color: url('path_to_image');
 }
